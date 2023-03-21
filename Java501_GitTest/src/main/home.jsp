@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	최승환<p>
+	최승환 유현규<p>
 </body>
 </html>
